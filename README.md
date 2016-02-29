@@ -61,7 +61,7 @@ All deprecated APIs, such as SearchPane, SearchBox and more are replaced and/or 
 Updated with WinJS v4.4
 
 ## Getting Started
-You need Visual Studio 2015 Update 1 or later
+You need Visual Studio 2015 Update 1 or later (including Windows Phone 8.1 Tools installed)
 
  - Clone or download the template
  - Open the "config.json" file in the config folder and modify accordingly
