@@ -65,7 +65,8 @@ You need Visual Studio 2015 Update 1 or later (including Windows Phone 8.1 Tools
 
  - Clone or download the template
  - Open the "config.json" file in the config folder and modify accordingly
- - Press F5 to deploy
+ - Set target to `x86`
+ - Press F5 to debug
  - Publish when ready!
 
 ## Documentation
